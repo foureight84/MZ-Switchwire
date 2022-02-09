@@ -22,4 +22,4 @@ Parts colored RED (with the exception of the AfterBurner print head assembly) ar
 ![Print Sample](https://github.com/foureight84/MZ-Switchwire/blob/master/images/print2.jpg?raw=true)
 
 ### Support Link
-[![Support my work](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg)](https://paypal.me/foureight84 "Support my work :D")
+[![Support my work](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg)](https://paypal.me/foureight84 "Support my work :D")
