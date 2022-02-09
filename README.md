@@ -1,6 +1,6 @@
 ## Anycubic Mega Zero v1 Switchwire Mod
 
-![MZ Switchwire](https://github.com/foureight84/MZ-Switchwire/blob/master/images/P1010293.JPG?raw=true)
+![MZ Switchwire](https://github.com/foureight84/MZ-Switchwire/blob/master/images/P1010291.JPG?raw=true)
 
 ### 390mm X-Axis with MGN9H
 ![MZ Switchwire](https://github.com/foureight84/MZ-Switchwire/blob/master/images/MZ%20Switchwire%20MGN9H%20390mm.PNG?raw=true)
