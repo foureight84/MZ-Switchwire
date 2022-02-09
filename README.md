@@ -12,3 +12,7 @@ Custom print head assembly plate that is compatible with stock Mega Zero fan shr
 [![MZ Switchwire Printing](https://img.youtube.com/vi/JRjAbpS8Tx0/maxresdefault.jpg)](https://youtu.be/JRjAbpS8Tx0 "MZ Switchwire Printing")
 
 [![MZ Switchwire Homing](https://img.youtube.com/vi/6_8q-Ku62cM/maxresdefault.jpg)](https://youtu.be/6_8q-Ku62cM "MZ Switchwire Homing")
+
+### Print samples
+![Print Sample](https://github.com/foureight84/MZ-Switchwire/blob/master/images/print1.jpg?raw=true)
+![Print Sample](https://github.com/foureight84/MZ-Switchwire/blob/master/images/print2.jpg?raw=true)
