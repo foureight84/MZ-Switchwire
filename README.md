@@ -7,7 +7,7 @@
 
 Custom print head assembly plate that is compatible with stock Mega Zero fan shroud or custom Ender 3 solutions like the Manta or HeroMe. Screenshot features the [Manta Cooling](https://www.thingiverse.com/thing:4943125). Swap out MGN9H for MGN12H to use the Voron AfterBurner or StealthBurner.
 
-Parts colored RED (with the exception of the AfterBurner print head assembly) are modded parts and adapters to accomodate Switchwire components.
+Parts colored RED are modded parts and adapters to accomodate Switchwire components.
 
 ### [340mm X-Axis with MGN12H and AfterBurner](https://rawcdn.githack.com/foureight84/MZ-Switchwire/9763c37dd7dee9f17b365f603a13266c272fb4ee/Anycubic-Mega-Zero-1.0%20-%20Switchwire%20MGH12H%20Gantry-sfa.html "View STEP file") - Click for 3D preview
 [![MZ Switchwire](https://github.com/foureight84/MZ-Switchwire/blob/master/images/MZ%20Switchwire%20MGN12H%20340mm.PNG?raw=true)](https://rawcdn.githack.com/foureight84/MZ-Switchwire/9763c37dd7dee9f17b365f603a13266c272fb4ee/Anycubic-Mega-Zero-1.0%20-%20Switchwire%20MGH12H%20Gantry-sfa.html "View STEP file")
